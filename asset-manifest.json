@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/puzzle/static/css/main.62ec06f1.css",
+    "main.js": "/puzzle/static/js/main.4a8d18c5.js",
+    "static/js/787.dc03b30a.chunk.js": "/puzzle/static/js/787.dc03b30a.chunk.js",
+    "static/media/Heart.png": "/puzzle/static/media/Heart.fae2f3b6101c9f8c72ed.png",
+    "index.html": "/puzzle/index.html",
+    "main.62ec06f1.css.map": "/puzzle/static/css/main.62ec06f1.css.map",
+    "main.4a8d18c5.js.map": "/puzzle/static/js/main.4a8d18c5.js.map",
+    "787.dc03b30a.chunk.js.map": "/puzzle/static/js/787.dc03b30a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ec06f1.css",
+    "static/js/main.4a8d18c5.js"
+  ]
+}
